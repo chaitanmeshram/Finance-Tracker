@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #balance {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #transactions {
+    margin-bottom: 20px;
+  }
+  
+  .transaction {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .transaction .type {
+    font-weight: bold;
+  }
+  
+  .transaction .description {
+    margin-top: 5px;
+    color: #666;
+  }
+  
+  #transaction-form {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  

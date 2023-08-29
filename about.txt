@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Edu TAS Beginner
+- Font Author: Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
+- Font Source: http://fonts.gstatic.com/s/edutasbeginner/v3/ZXuwe04WubHfGVY-1TcNg7AFUmshg8jIUTzK3r34f_HwemkrBWRhvk02.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

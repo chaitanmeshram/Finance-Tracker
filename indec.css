@@ -1,0 +1,46 @@
+@media (max-width : 1020px){
+  .title {
+    display: none;
+  }
+}
+
+.top {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: white;
+    width: auto;
+    height: 700px;
+
+}
+th, td {
+    padding: 100px;
+    margin-top: 10px;
+  }
+
+
+.title {
+    position: relative;
+    width: 450px;
+    height: 450px;
+}
+
+.get-started-button {
+    background-color: lightgreen;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+
+footer {
+    margin: auto;
+    background-color: navy;
+    color: #ffffff;
+    padding: 110px;
+
+    text-align: center;
+  }
+
